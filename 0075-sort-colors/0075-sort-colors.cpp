@@ -9,14 +9,14 @@ public:
             else if(nums[i] == 1) b++;
             else c++;
         }
-        for(int i=0;i<a;i++){
-            arr.push_back(0);
-        }
-                for(int i=0;i<b;i++){
-            arr.push_back(1);
-        }
-                for(int i=0;i<c;i++){
-            arr.push_back(2);
+        for(int i=0;i<n;i++){
+            if(i<a){
+                arr.push_back(0);
+            }else if(i<a+b){
+                arr.push_back(1);
+            }else{
+                arr.push_back(2);
+            }
         }
 
         nums = arr;
