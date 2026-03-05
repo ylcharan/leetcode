@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0097-interleaving-string](https://github.com/ylcharan/leetcode/tree/main/0097-interleaving-string/) | Medium |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ylcharan/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
