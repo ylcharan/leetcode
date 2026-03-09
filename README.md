@@ -27,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ylcharan/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/ylcharan/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ylcharan/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ylcharan/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/ylcharan/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ylcharan/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -79,4 +81,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ylcharan/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/ylcharan/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/ylcharan/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
