@@ -15,6 +15,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/ylcharan/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ylcharan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ylcharan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ylcharan/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -23,6 +24,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/ylcharan/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ylcharan/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -92,4 +94,8 @@
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ylcharan/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ylcharan/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/ylcharan/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
