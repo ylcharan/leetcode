@@ -36,6 +36,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/ylcharan/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ylcharan/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -98,4 +99,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/ylcharan/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0146-lru-cache](https://github.com/ylcharan/leetcode/tree/main/0146-lru-cache/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ylcharan/leetcode/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ylcharan/leetcode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
