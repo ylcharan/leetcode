@@ -16,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/ylcharan/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0056-merge-intervals](https://github.com/ylcharan/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ylcharan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ylcharan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ylcharan/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -77,6 +78,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/ylcharan/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ylcharan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ylcharan/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
