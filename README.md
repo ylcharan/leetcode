@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0097-interleaving-string](https://github.com/ylcharan/leetcode/tree/main/0097-interleaving-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/ylcharan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ylcharan/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ylcharan/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Dynamic Programming
@@ -124,4 +125,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/ylcharan/leetcode/tree/main/0133-clone-graph/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/ylcharan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/ylcharan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
