@@ -9,6 +9,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ylcharan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ylcharan/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ylcharan/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ylcharan/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +142,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/ylcharan/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ylcharan/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ylcharan/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 <!---LeetCode Topics End-->
