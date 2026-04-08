@@ -12,6 +12,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ylcharan/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ylcharan/leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ylcharan/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ylcharan/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@
 | [0146-lru-cache](https://github.com/ylcharan/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ylcharan/leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ylcharan/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ylcharan/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
