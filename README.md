@@ -31,6 +31,7 @@
 | [1046-last-stone-weight](https://github.com/ylcharan/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ylcharan/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ylcharan/leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/ylcharan/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ylcharan/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -177,4 +178,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ylcharan/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/ylcharan/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
