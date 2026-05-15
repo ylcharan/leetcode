@@ -143,6 +143,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/ylcharan/leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0206-reverse-linked-list](https://github.com/ylcharan/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,4 +185,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/ylcharan/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/ylcharan/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
