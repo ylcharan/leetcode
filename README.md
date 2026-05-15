@@ -146,6 +146,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ylcharan/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0146-lru-cache](https://github.com/ylcharan/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ylcharan/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ylcharan/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ylcharan/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -159,6 +160,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ylcharan/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/ylcharan/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/ylcharan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ylcharan/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
@@ -186,6 +188,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ylcharan/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ylcharan/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,4 +198,5 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ylcharan/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ylcharan/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ylcharan/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
