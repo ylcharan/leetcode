@@ -144,6 +144,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/ylcharan/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ylcharan/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/ylcharan/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ylcharan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/ylcharan/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
