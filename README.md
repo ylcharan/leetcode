@@ -23,6 +23,7 @@
 | [0036-valid-sudoku](https://github.com/ylcharan/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0056-merge-intervals](https://github.com/ylcharan/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0130-surrounded-regions](https://github.com/ylcharan/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ylcharan/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ylcharan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/ylcharan/leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ylcharan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -59,6 +60,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ylcharan/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ylcharan/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ylcharan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Heap (Priority Queue)
