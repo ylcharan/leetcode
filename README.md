@@ -32,6 +32,7 @@
 | [1046-last-stone-weight](https://github.com/ylcharan/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ylcharan/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ylcharan/leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2540-minimum-common-value](https://github.com/ylcharan/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ylcharan/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ylcharan/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Matrix
@@ -63,6 +64,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ylcharan/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ylcharan/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ylcharan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [2540-minimum-common-value](https://github.com/ylcharan/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@
 | [0133-clone-graph](https://github.com/ylcharan/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0146-lru-cache](https://github.com/ylcharan/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ylcharan/leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+| [2540-minimum-common-value](https://github.com/ylcharan/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ylcharan/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ylcharan/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Linked List
@@ -163,6 +166,7 @@
 | [0234-palindrome-linked-list](https://github.com/ylcharan/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/ylcharan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ylcharan/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2540-minimum-common-value](https://github.com/ylcharan/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
