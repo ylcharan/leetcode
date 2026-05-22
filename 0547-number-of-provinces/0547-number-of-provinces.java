@@ -1,9 +1,9 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
-        boolean[] visited = new boolean[isConnected.length];
-        Arrays.fill(visited, false);
+        int n = isConnected.length;
+        boolean[] visited = new boolean[n];
         int ans = 0;
-        for (int i = 0; i < isConnected.length; i++) {
+        for (int i = 0; i < n; i++) {
             if (!visited[i]) {
                 dfs(i, isConnected, visited);
                 ans++;
@@ -12,11 +12,11 @@ class Solution {
         return ans;
     }
 
-    public void dfs(int i, int[][] isConnected, boolean[] visited) {
+    public void dfs(int i, int[][] graph, boolean[] visited) {
         visited[i] = true;
-        for (int j = 0; j < isConnected.length; j++) {
-            if (isConnected[i][j] == 1 && visited[j] == false) {
-                dfs(j, isConnected, visited);
+        for (int j = 0; j < graph.length; j++) {
+            if (graph[i][j] == 1 && !visited[j]) {
+                dfs(j, graph, visited);
             }
         }
     }
