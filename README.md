@@ -120,6 +120,7 @@
 | [0133-clone-graph](https://github.com/ylcharan/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ylcharan/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/ylcharan/leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0547-number-of-provinces](https://github.com/ylcharan/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0994-rotting-oranges](https://github.com/ylcharan/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ylcharan/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
@@ -131,6 +132,7 @@
 | [0133-clone-graph](https://github.com/ylcharan/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ylcharan/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/ylcharan/leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0547-number-of-provinces](https://github.com/ylcharan/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ylcharan/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -159,6 +161,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/ylcharan/leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0547-number-of-provinces](https://github.com/ylcharan/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +178,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/ylcharan/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0547-number-of-provinces](https://github.com/ylcharan/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
