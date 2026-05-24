@@ -11,6 +11,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ylcharan/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ylcharan/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ylcharan/leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2418-sort-the-people](https://github.com/ylcharan/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ylcharan/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ylcharan/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Dynamic Programming
@@ -32,6 +33,7 @@
 | [1046-last-stone-weight](https://github.com/ylcharan/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ylcharan/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ylcharan/leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2418-sort-the-people](https://github.com/ylcharan/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2540-minimum-common-value](https://github.com/ylcharan/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ylcharan/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ylcharan/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -106,6 +108,7 @@
 | [0056-merge-intervals](https://github.com/ylcharan/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ylcharan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ylcharan/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [2418-sort-the-people](https://github.com/ylcharan/leetcode/tree/main/2418-sort-the-people/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +144,7 @@
 | [0133-clone-graph](https://github.com/ylcharan/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0146-lru-cache](https://github.com/ylcharan/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ylcharan/leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+| [2418-sort-the-people](https://github.com/ylcharan/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2540-minimum-common-value](https://github.com/ylcharan/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ylcharan/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ylcharan/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
