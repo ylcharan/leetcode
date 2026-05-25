@@ -11,6 +11,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ylcharan/leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ylcharan/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ylcharan/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/ylcharan/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ylcharan/leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2418-sort-the-people](https://github.com/ylcharan/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ylcharan/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
@@ -109,6 +110,7 @@
 | [0056-merge-intervals](https://github.com/ylcharan/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ylcharan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ylcharan/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1859-sorting-the-sentence](https://github.com/ylcharan/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2418-sort-the-people](https://github.com/ylcharan/leetcode/tree/main/2418-sort-the-people/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
