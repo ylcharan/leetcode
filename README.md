@@ -101,6 +101,7 @@
 | [0319-bulb-switcher](https://github.com/ylcharan/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ylcharan/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/ylcharan/leetcode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
+| [2119-a-number-after-a-double-reversal](https://github.com/ylcharan/leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ylcharan/leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2235-add-two-integers](https://github.com/ylcharan/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ylcharan/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
