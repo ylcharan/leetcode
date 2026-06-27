@@ -102,6 +102,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/ylcharan/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/ylcharan/leetcode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ylcharan/leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2413-smallest-even-multiple](https://github.com/ylcharan/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/ylcharan/leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2582-pass-the-pillow](https://github.com/ylcharan/leetcode/tree/main/2582-pass-the-pillow/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/ylcharan/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -238,4 +239,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/ylcharan/leetcode/tree/main/0258-add-digits/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/ylcharan/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 <!---LeetCode Topics End-->
