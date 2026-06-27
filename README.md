@@ -105,6 +105,7 @@
 | [2413-smallest-even-multiple](https://github.com/ylcharan/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/ylcharan/leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2582-pass-the-pillow](https://github.com/ylcharan/leetcode/tree/main/2582-pass-the-pillow/) | Easy |
+| [2651-calculate-delayed-arrival-time](https://github.com/ylcharan/leetcode/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/ylcharan/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
