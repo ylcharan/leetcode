@@ -105,6 +105,7 @@
 | [2413-smallest-even-multiple](https://github.com/ylcharan/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/ylcharan/leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2582-pass-the-pillow](https://github.com/ylcharan/leetcode/tree/main/2582-pass-the-pillow/) | Easy |
+| [2600-k-items-with-the-maximum-sum](https://github.com/ylcharan/leetcode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/ylcharan/leetcode/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/ylcharan/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 ## Divide and Conquer
@@ -196,6 +197,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ylcharan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [2600-k-items-with-the-maximum-sum](https://github.com/ylcharan/leetcode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
