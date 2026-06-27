@@ -105,6 +105,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ylcharan/leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2235-add-two-integers](https://github.com/ylcharan/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ylcharan/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/ylcharan/leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/ylcharan/leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2582-pass-the-pillow](https://github.com/ylcharan/leetcode/tree/main/2582-pass-the-pillow/) | Easy |
 | [2600-k-items-with-the-maximum-sum](https://github.com/ylcharan/leetcode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
@@ -119,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ylcharan/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/ylcharan/leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
