@@ -101,6 +101,7 @@
 | [1551-minimum-operations-to-make-array-equal](https://github.com/ylcharan/leetcode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ylcharan/leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/ylcharan/leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/ylcharan/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
