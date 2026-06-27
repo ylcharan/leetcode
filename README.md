@@ -97,6 +97,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/ylcharan/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0319-bulb-switcher](https://github.com/ylcharan/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ylcharan/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/ylcharan/leetcode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
@@ -219,6 +220,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/ylcharan/leetcode/tree/main/0258-add-digits/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/ylcharan/leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ylcharan/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2582-pass-the-pillow](https://github.com/ylcharan/leetcode/tree/main/2582-pass-the-pillow/) | Easy |
@@ -232,4 +234,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/ylcharan/leetcode/tree/main/0319-bulb-switcher/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/ylcharan/leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
