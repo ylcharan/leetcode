@@ -20,11 +20,13 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ylcharan/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0097-interleaving-string](https://github.com/ylcharan/leetcode/tree/main/0097-interleaving-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/ylcharan/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0053-maximum-subarray](https://github.com/ylcharan/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/ylcharan/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0130-surrounded-regions](https://github.com/ylcharan/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ylcharan/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -115,6 +117,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ylcharan/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ylcharan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ylcharan/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
