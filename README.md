@@ -60,6 +60,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ylcharan/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ylcharan/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ylcharan/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ylcharan/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ylcharan/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ylcharan/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Design
@@ -72,6 +73,7 @@
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ylcharan/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ylcharan/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ylcharan/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ylcharan/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ylcharan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2540-minimum-common-value](https://github.com/ylcharan/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -90,6 +92,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ylcharan/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ylcharan/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ylcharan/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ylcharan/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ylcharan/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ylcharan/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Data Stream
