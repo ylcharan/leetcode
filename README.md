@@ -28,6 +28,7 @@
 | [0036-valid-sudoku](https://github.com/ylcharan/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0053-maximum-subarray](https://github.com/ylcharan/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/ylcharan/leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/ylcharan/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0130-surrounded-regions](https://github.com/ylcharan/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ylcharan/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ylcharan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -233,6 +234,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ylcharan/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/ylcharan/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ylcharan/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Simulation
@@ -262,4 +264,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/ylcharan/leetcode/tree/main/0292-nim-game/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ylcharan/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
