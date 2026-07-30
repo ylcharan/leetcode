@@ -15,6 +15,7 @@
 | [1859-sorting-the-sentence](https://github.com/ylcharan/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ylcharan/leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2418-sort-the-people](https://github.com/ylcharan/leetcode/tree/main/2418-sort-the-people/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ylcharan/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ylcharan/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ylcharan/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Dynamic Programming
@@ -123,6 +124,7 @@
 | [2600-k-items-with-the-maximum-sum](https://github.com/ylcharan/leetcode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/ylcharan/leetcode/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/ylcharan/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ylcharan/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +219,7 @@
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ylcharan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2600-k-items-with-the-maximum-sum](https://github.com/ylcharan/leetcode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ylcharan/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
