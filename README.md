@@ -46,6 +46,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/ylcharan/leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ylcharan/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ylcharan/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ylcharan/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@
 | [2540-minimum-common-value](https://github.com/ylcharan/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/ylcharan/leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ylcharan/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ylcharan/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ylcharan/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
