@@ -43,6 +43,7 @@
 | [1046-last-stone-weight](https://github.com/ylcharan/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ylcharan/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/ylcharan/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ylcharan/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ylcharan/leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2418-sort-the-people](https://github.com/ylcharan/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2540-minimum-common-value](https://github.com/ylcharan/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -234,6 +235,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ylcharan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ylcharan/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2600-k-items-with-the-maximum-sum](https://github.com/ylcharan/leetcode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ylcharan/leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ylcharan/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
