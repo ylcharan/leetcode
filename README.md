@@ -51,6 +51,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/ylcharan/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ylcharan/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ylcharan/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/ylcharan/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/ylcharan/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ylcharan/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ylcharan/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/ylcharan/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
