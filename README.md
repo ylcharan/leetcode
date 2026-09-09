@@ -138,6 +138,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/ylcharan/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ylcharan/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ylcharan/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/ylcharan/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ylcharan/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
