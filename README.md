@@ -19,6 +19,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ylcharan/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ylcharan/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ylcharan/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/ylcharan/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ylcharan/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -280,6 +281,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/ylcharan/leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ylcharan/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2582-pass-the-pillow](https://github.com/ylcharan/leetcode/tree/main/2582-pass-the-pillow/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/ylcharan/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
